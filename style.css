@@ -141,9 +141,7 @@
   padding-bottom:2px;
   text-align:center;
   font-weight:bold;
-  background-image: url(vermelho.jpeg);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  
 }
 
 #social .social-buttons{
