@@ -206,11 +206,9 @@ nav .navbar-header button{
   font-weight:bold;
 }
 
-footer{
-  
-  color:white;
-  min-height:10px;
-  margin:0 auto;
-  text-align:center;
- 
+.author p{
+  font-size:15px;
+  color: #ffffff;
+  padding-top:0%;
+  line-height: 0%;
 }
